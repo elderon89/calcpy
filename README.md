@@ -1,2 +1,4 @@
 # calc.py
-Criando uma calculadora simples em Python.
+
+- ENG: Creating a simple calculator in Python.
+- PT-BR: Criando uma calculadora simples em Python.
